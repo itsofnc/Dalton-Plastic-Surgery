@@ -1,0 +1,2128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Projects\DPSD\DPS Responsive\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="assets/bootstrap-3.3.5-dist/css/bootswatch/spacelab-bootstrap.min.css">
+      <publishTime>08/13/2015 17:29:47</publishTime>
+    </File>
+    <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/13/2015 15:55:37</publishTime>
+    </File>
+    <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/13/2015 15:55:37</publishTime>
+    </File>
+    <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/13/2015 15:55:37</publishTime>
+    </File>
+    <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>08/13/2015 15:55:37</publishTime>
+    </File>
+    <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>08/13/2015 15:55:37</publishTime>
+    </File>
+    <File Include="assets/bootstrap-3.3.5-dist/js/bootstrap.min.js">
+      <publishTime>08/13/2015 15:55:37</publishTime>
+    </File>
+    <File Include="assets/css/carousel.css">
+      <publishTime>08/13/2015 20:14:50</publishTime>
+    </File>
+    <File Include="assets/css/Site.css">
+      <publishTime>09/04/2015 14:31:23</publishTime>
+    </File>
+    <File Include="assets/css/stickyFooterNavbar.css">
+      <publishTime>09/04/2015 14:26:08</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/demo/.DS_Store">
+      <publishTime>09/08/2015 22:31:29</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/demo/target.php">
+      <publishTime>09/08/2015 22:31:29</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/demo/v2/reCaptcha.declarative.html">
+      <publishTime>09/08/2015 22:31:29</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/demo/v2/reCaptcha.html">
+      <publishTime>09/08/2015 22:31:29</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/demo/v2/recaptcha.php">
+      <publishTime>09/08/2015 22:31:29</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/demo/v2/recaptchalib.php">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/dist/.DS_Store">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/dist/reCaptcha2.min.js">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/src/.DS_Store">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/src/reCaptcha2.js">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/._demo">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/._dist">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/._src">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/demo/._.DS_Store">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/demo/._target.php">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/demo/._v2">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/dist/._.DS_Store">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/addons/__MACOSX/src/._.DS_Store">
+      <publishTime>09/08/2015 22:31:30</publishTime>
+    </File>
+    <File Include="assets/formValidation/css/formValidation.css">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/css/formValidation.min.css">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/formValidation.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/formValidation.min.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/bootstrap.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/bootstrap.min.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/foundation.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/foundation.min.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/pure.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/pure.min.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/semantic.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/semantic.min.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/uikit.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/framework/uikit.min.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/ar_MA.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/be_FR.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/be_NL.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/bg_BG.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/ca_ES.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/cs_CZ.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/da_DK.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/de_DE.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/en_US.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/es_CL.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/es_ES.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/eu_ES.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/fa_IR.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/fi_FI.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/fr_FR.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/gr_EL.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/he_IL.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/hi_IN.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/hu_HU.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/id_ID.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/it_IT.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/ja_JP.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/nl_NL.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/no_NO.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/pl_PL.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/pt_BR.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/pt_PT.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/ro_RO.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/ru_RU.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/sk_SK.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/sq_AL.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/sr_RS.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/sv_SE.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/th_TH.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/tr_TR.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/ua_UA.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/vi_VN.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/zh_CN.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/formValidation/js/language/zh_TW.js">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/.gitignore">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/.jshintrc">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/blueimp-gallery.jquery.json">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/bower.json">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/css/blueimp-gallery-indicator.css">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/css/blueimp-gallery-video.css">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/css/blueimp-gallery.css">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/css/blueimp-gallery.min.css">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/css/demo.css">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/Gruntfile.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/img/error.png">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/img/error.svg">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/img/loading.gif">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/img/play-pause.png">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/img/play-pause.svg">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/img/video-play.png">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/img/video-play.svg">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/index.html">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-fullscreen.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-indicator.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-video.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-vimeo.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-youtube.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-gallery.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-gallery.min.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/blueimp-helper.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/demo.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/jquery.blueimp-gallery.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/js/jquery.blueimp-gallery.min.js">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/package.json">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/Gallery-2.16.0/README.md">
+      <publishTime>08/19/2015 19:38:31</publishTime>
+    </File>
+    <File Include="assets/images/300x250_1_blue_cosmetic.gif">
+      <publishTime>08/13/2015 17:07:31</publishTime>
+    </File>
+    <File Include="assets/images/footer.png">
+      <publishTime>08/13/2015 19:23:08</publishTime>
+    </File>
+    <File Include="assets/js/BuildFormData.js">
+      <publishTime>08/13/2015 19:46:32</publishTime>
+    </File>
+    <File Include="assets/js/ie10-viewport-bug-workaround.js">
+      <publishTime>08/13/2015 15:50:37</publishTime>
+    </File>
+    <File Include="assets/js/jquery-1.11.0.js">
+      <publishTime>08/13/2015 19:27:49</publishTime>
+    </File>
+    <File Include="assets/tinycarousal/images/Thumbs.db">
+      <publishTime>08/13/2015 19:41:40</publishTime>
+    </File>
+    <File Include="assets/tinycarousal/jquery.tinycarousel.js">
+      <publishTime>08/13/2015 19:40:25</publishTime>
+    </File>
+    <File Include="assets/tinycarousal/jquery.tinycarousel.min.js">
+      <publishTime>08/13/2015 19:40:25</publishTime>
+    </File>
+    <File Include="assets/tinycarousal/tinycarousel.css">
+      <publishTime>08/13/2015 19:40:26</publishTime>
+    </File>
+    <File Include="bin/DPSResponsive.dll">
+      <publishTime>04/13/2016 15:03:03</publishTime>
+    </File>
+    <File Include="bin/DPSResponsive.xml">
+      <publishTime>04/13/2016 15:03:03</publishTime>
+    </File>
+    <File Include="Brochures/DaltonMedicalSpaBrochure.pdf">
+      <publishTime>02/07/2013 15:08:22</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>09/09/2015 14:08:12</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/05/2015 11:43:00</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/css/font-awesome.css">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/css/font-awesome.min.css">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/fonts/fontawesome-webfont.woff2">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/fonts/FontAwesome.otf">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/animated.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/bordered-pulled.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/core.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/fixed-width.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/font-awesome.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/icons.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/larger.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/list.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/mixins.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/path.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/rotated-flipped.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/spinning.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/stacked.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/variables.css">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/variables.less">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/less/variables.min.css">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/font-awesome.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_animated.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_core.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_fixed-width.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_icons.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_larger.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_list.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_mixins.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_path.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_spinning.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_stacked.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/scss/_variables.scss">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/font-awesome/ThisIsVersion4.3.0.txt">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/23/2015 15:23:52</publishTime>
+    </File>
+    <File Include="frmListings.aspx">
+      <publishTime>08/24/2015 12:20:47</publishTime>
+    </File>
+    <File Include="frmModuleArticle.aspx">
+      <publishTime>09/05/2015 15:31:48</publishTime>
+    </File>
+    <File Include="getCaptchaImage.aspx">
+      <publishTime>09/08/2015 10:44:08</publishTime>
+    </File>
+    <File Include="get_list.aspx">
+      <publishTime>08/21/2015 11:59:50</publishTime>
+    </File>
+    <File Include="images/10_reasons.jpg">
+      <publishTime>08/22/2013 17:31:42</publishTime>
+    </File>
+    <File Include="images/160x600_1_blue_cosmetic.gif">
+      <publishTime>02/14/2013 11:51:46</publishTime>
+    </File>
+    <File Include="images/300x250_1_blue_cosmetic.gif">
+      <publishTime>04/15/2013 11:13:26</publishTime>
+    </File>
+    <File Include="images/728x90_2_blue_cosmetic.gif">
+      <publishTime>02/14/2013 12:16:38</publishTime>
+    </File>
+    <File Include="images/AAD Logo.PNG">
+      <publishTime>08/22/2013 17:02:56</publishTime>
+    </File>
+    <File Include="images/about_bg.png">
+      <publishTime>11/26/2012 13:26:08</publishTime>
+    </File>
+    <File Include="images/abps-logo-footer.png">
+      <publishTime>09/07/2015 13:05:38</publishTime>
+    </File>
+    <File Include="images/abps-logo.jpg">
+      <publishTime>08/21/2015 14:57:57</publishTime>
+    </File>
+    <File Include="images/Affordable-Beauty-Spa_07.jpg">
+      <publishTime>08/22/2013 16:47:20</publishTime>
+    </File>
+    <File Include="images/Alliant.jpg">
+      <publishTime>02/25/2013 12:15:26</publishTime>
+    </File>
+    <File Include="images/Alliant.png">
+      <publishTime>02/25/2013 12:11:12</publishTime>
+    </File>
+    <File Include="images/areasofservice.png">
+      <publishTime>08/22/2013 16:23:50</publishTime>
+    </File>
+    <File Include="images/asps-footer-logo.png">
+      <publishTime>09/07/2015 12:41:11</publishTime>
+    </File>
+    <File Include="images/asps_Logo.jpg">
+      <publishTime>08/21/2015 14:57:38</publishTime>
+    </File>
+    <File Include="images/asps_surgeon_logo_nobg.png">
+      <publishTime>08/21/2015 13:00:07</publishTime>
+    </File>
+    <File Include="images/bareMinerals.png">
+      <publishTime>02/27/2013 16:03:38</publishTime>
+    </File>
+    <File Include="images/bodyContentBack.gif">
+      <publishTime>03/29/2013 14:39:10</publishTime>
+    </File>
+    <File Include="images/bodyContentBack.png">
+      <publishTime>03/29/2013 15:25:02</publishTime>
+    </File>
+    <File Include="images/body_bg.jpg">
+      <publishTime>01/23/2013 17:07:46</publishTime>
+    </File>
+    <File Include="images/body_bg.png">
+      <publishTime>02/14/2013 14:36:16</publishTime>
+    </File>
+    <File Include="images/body_bg2.png">
+      <publishTime>01/23/2013 16:58:46</publishTime>
+    </File>
+    <File Include="images/body_bg3.png">
+      <publishTime>03/04/2013 11:26:06</publishTime>
+    </File>
+    <File Include="images/Building-Photo.jpg">
+      <publishTime>04/16/2013 18:11:20</publishTime>
+    </File>
+    <File Include="images/Building-Photo.png">
+      <publishTime>03/06/2013 11:31:40</publishTime>
+    </File>
+    <File Include="images/Building-Photo2.png">
+      <publishTime>03/06/2013 12:13:34</publishTime>
+    </File>
+    <File Include="images/buttons.png">
+      <publishTime>01/30/2013 15:19:08</publishTime>
+    </File>
+    <File Include="images/carousel_vw.PNG">
+      <publishTime>03/13/2013 14:25:50</publishTime>
+    </File>
+    <File Include="images/daisy1.jpg">
+      <publishTime>03/29/2013 15:18:44</publishTime>
+    </File>
+    <File Include="images/daisy_bg1.png">
+      <publishTime>02/25/2013 13:44:28</publishTime>
+    </File>
+    <File Include="images/dermatology.jpg">
+      <publishTime>05/03/2013 16:53:38</publishTime>
+    </File>
+    <File Include="images/dpsd_waiting.gif">
+      <publishTime>07/29/2013 14:56:42</publishTime>
+    </File>
+    <File Include="images/DPS_Staff.png">
+      <publishTime>02/14/2013 17:12:32</publishTime>
+    </File>
+    <File Include="images/facial-bg.jpg">
+      <publishTime>09/04/2015 15:07:54</publishTime>
+    </File>
+    <File Include="images/facial-rejuvenation-sm.jpg">
+      <publishTime>09/04/2015 13:53:48</publishTime>
+    </File>
+    <File Include="images/favicon.ico">
+      <publishTime>08/13/2013 14:11:32</publishTime>
+    </File>
+    <File Include="images/flower_icon.PNG">
+      <publishTime>08/13/2013 14:09:34</publishTime>
+    </File>
+    <File Include="images/footer.png">
+      <publishTime>02/18/2013 13:26:12</publishTime>
+    </File>
+    <File Include="images/formImages/module_2_ifrBackgroundImage.png">
+      <publishTime>05/10/2013 15:54:32</publishTime>
+    </File>
+    <File Include="images/formImages/no_image.jpg">
+      <publishTime>05/03/2013 16:06:52</publishTime>
+    </File>
+    <File Include="images/happy-people.jpg">
+      <publishTime>04/15/2013 11:13:44</publishTime>
+    </File>
+    <File Include="images/header.png">
+      <publishTime>11/26/2012 12:54:44</publishTime>
+    </File>
+    <File Include="images/header_bg.jpg">
+      <publishTime>11/19/2012 12:49:02</publishTime>
+    </File>
+    <File Include="images/header_bg.png">
+      <publishTime>01/22/2013 14:50:00</publishTime>
+    </File>
+    <File Include="images/HealthOne.png">
+      <publishTime>02/25/2013 12:15:30</publishTime>
+    </File>
+    <File Include="images/IMAGE_Aqua-Med-Spa.jpg">
+      <publishTime>08/22/2013 17:38:36</publishTime>
+    </File>
+    <File Include="images/image_bg.jpg">
+      <publishTime>08/27/2012 14:11:00</publishTime>
+    </File>
+    <File Include="images/IMAGE_The-Signature-Medical-Spa_LIPO_medium.jpg">
+      <publishTime>08/22/2013 17:44:58</publishTime>
+    </File>
+    <File Include="images/Insurance-Logos.jpg">
+      <publishTime>04/16/2013 18:37:06</publishTime>
+    </File>
+    <File Include="images/medical-spa-3.jpg">
+      <publishTime>08/12/2013 13:30:04</publishTime>
+    </File>
+    <File Include="images/medical-spa.jpg">
+      <publishTime>04/16/2013 15:21:18</publishTime>
+    </File>
+    <File Include="images/medical-spa2.jpg">
+      <publishTime>03/29/2013 15:33:50</publishTime>
+    </File>
+    <File Include="images/MedicalSpaBrochure.png">
+      <publishTime>04/16/2013 15:38:32</publishTime>
+    </File>
+    <File Include="images/medical_spa.jpg">
+      <publishTime>11/12/2012 15:27:10</publishTime>
+    </File>
+    <File Include="images/menu_bg.png">
+      <publishTime>01/22/2013 12:53:50</publishTime>
+    </File>
+    <File Include="images/menu_bg.psd">
+      <publishTime>01/22/2013 12:53:36</publishTime>
+    </File>
+    <File Include="images/microderm.png">
+      <publishTime>02/27/2013 16:42:28</publishTime>
+    </File>
+    <File Include="images/no_image.jpg">
+      <publishTime>04/15/2013 11:13:46</publishTime>
+    </File>
+    <File Include="images/photo-gallery.jpg">
+      <publishTime>05/03/2013 15:07:34</publishTime>
+    </File>
+    <File Include="images/plastic-surgery.jpg">
+      <publishTime>03/29/2013 15:08:56</publishTime>
+    </File>
+    <File Include="images/PlasticSurgery.png">
+      <publishTime>01/22/2013 12:34:42</publishTime>
+    </File>
+    <File Include="images/plasticSurgeryBody.jpg">
+      <publishTime>04/16/2013 11:47:42</publishTime>
+    </File>
+    <File Include="images/products/bareminerals.jpg">
+      <publishTime>08/12/2013 09:54:10</publishTime>
+    </File>
+    <File Include="images/products/bareMinerals.png">
+      <publishTime>02/27/2013 16:03:38</publishTime>
+    </File>
+    <File Include="images/products/bareMinerals_sm.png">
+      <publishTime>08/12/2013 09:57:12</publishTime>
+    </File>
+    <File Include="images/products/clarisonic.jpg">
+      <publishTime>08/09/2013 14:04:12</publishTime>
+    </File>
+    <File Include="images/products/clarisonic_sm.png">
+      <publishTime>08/09/2013 14:24:08</publishTime>
+    </File>
+    <File Include="images/products/isClinical.jpg">
+      <publishTime>08/09/2013 14:46:34</publishTime>
+    </File>
+    <File Include="images/products/isClinical_sm.png">
+      <publishTime>08/09/2013 14:47:52</publishTime>
+    </File>
+    <File Include="images/products/latisse.jpg">
+      <publishTime>08/09/2013 14:11:14</publishTime>
+    </File>
+    <File Include="images/products/latisse_sm.png">
+      <publishTime>08/09/2013 14:24:50</publishTime>
+    </File>
+    <File Include="images/products/obagi.jpg">
+      <publishTime>08/09/2013 14:41:20</publishTime>
+    </File>
+    <File Include="images/products/obagi_sm.png">
+      <publishTime>08/09/2013 14:41:52</publishTime>
+    </File>
+    <File Include="images/products/pca.jpg">
+      <publishTime>08/09/2013 14:15:42</publishTime>
+    </File>
+    <File Include="images/products/pca_sm.png">
+      <publishTime>08/09/2013 14:25:28</publishTime>
+    </File>
+    <File Include="images/products/Revision-skin.jpeg">
+      <publishTime>08/09/2013 14:17:34</publishTime>
+    </File>
+    <File Include="images/products/revision.jpg">
+      <publishTime>08/09/2013 14:37:48</publishTime>
+    </File>
+    <File Include="images/products/revision_sm.png">
+      <publishTime>08/09/2013 14:38:34</publishTime>
+    </File>
+    <File Include="images/products/skinCeuticals2.jpg">
+      <publishTime>08/09/2013 14:43:50</publishTime>
+    </File>
+    <File Include="images/products/skinceuticals_sm.png">
+      <publishTime>08/09/2013 14:45:54</publishTime>
+    </File>
+    <File Include="images/PS_MOC_CM_H_FULL_RGB_POS_3.jpg">
+      <publishTime>09/07/2015 12:50:34</publishTime>
+    </File>
+    <File Include="images/rightside_bg.png">
+      <publishTime>02/14/2013 17:31:10</publishTime>
+    </File>
+    <File Include="images/services/Abdominoplasty/Abdominoplast3-1.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/services/Abdominoplasty/Abdominoplast3-2.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/services/Abdominoplasty/Abdominoplast3-3.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/services/Abdominoplasty/Abdominoplast3-4.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/services/Abdominoplasty/Abdominoplast3-5.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/services/Abdominoplasty/Abdominoplast3-6.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/service_area_1.png">
+      <publishTime>01/23/2013 15:54:56</publishTime>
+    </File>
+    <File Include="images/service_area_2.png">
+      <publishTime>01/23/2013 15:55:28</publishTime>
+    </File>
+    <File Include="images/service_area_3.png">
+      <publishTime>01/23/2013 15:56:00</publishTime>
+    </File>
+    <File Include="images/service_area_4.png">
+      <publishTime>02/27/2013 15:09:26</publishTime>
+    </File>
+    <File Include="images/service_area_4_edit.png">
+      <publishTime>08/26/2013 17:09:14</publishTime>
+    </File>
+    <File Include="images/service_boxes.png">
+      <publishTime>02/25/2013 11:05:42</publishTime>
+    </File>
+    <File Include="images/setup.jpg">
+      <publishTime>08/22/2013 16:46:24</publishTime>
+    </File>
+    <File Include="images/spa-treatment.PNG">
+      <publishTime>09/03/2015 05:51:24</publishTime>
+    </File>
+    <File Include="images/staff/002.jpg">
+      <publishTime>02/28/2013 12:34:44</publishTime>
+    </File>
+    <File Include="images/staff/003.jpg">
+      <publishTime>02/28/2013 12:34:22</publishTime>
+    </File>
+    <File Include="images/staff/004.jpg">
+      <publishTime>02/28/2013 12:34:06</publishTime>
+    </File>
+    <File Include="images/staff/005.jpg">
+      <publishTime>02/28/2013 12:33:50</publishTime>
+    </File>
+    <File Include="images/staff/006.jpg">
+      <publishTime>02/28/2013 12:33:32</publishTime>
+    </File>
+    <File Include="images/staff/007.jpg">
+      <publishTime>02/28/2013 12:33:14</publishTime>
+    </File>
+    <File Include="images/staff/010.jpg">
+      <publishTime>02/28/2013 12:35:30</publishTime>
+    </File>
+    <File Include="images/staff/010.png">
+      <publishTime>02/27/2013 17:13:16</publishTime>
+    </File>
+    <File Include="images/staff/011.jpg">
+      <publishTime>02/28/2013 12:32:56</publishTime>
+    </File>
+    <File Include="images/staff/012.jpg">
+      <publishTime>02/28/2013 12:32:32</publishTime>
+    </File>
+    <File Include="images/staff/013.jpg">
+      <publishTime>02/28/2013 12:32:12</publishTime>
+    </File>
+    <File Include="images/staff/015.jpg">
+      <publishTime>02/28/2013 12:31:48</publishTime>
+    </File>
+    <File Include="images/staff/018.jpg">
+      <publishTime>02/28/2013 12:31:00</publishTime>
+    </File>
+    <File Include="images/staff/019.jpg">
+      <publishTime>02/28/2013 12:36:42</publishTime>
+    </File>
+    <File Include="images/staff/040.jpg">
+      <publishTime>03/06/2013 11:13:08</publishTime>
+    </File>
+    <File Include="images/staff/041.jpg">
+      <publishTime>03/06/2013 11:14:30</publishTime>
+    </File>
+    <File Include="images/staff/042.jpg">
+      <publishTime>03/06/2013 11:15:14</publishTime>
+    </File>
+    <File Include="images/staff/DPSD_script_Staff.sql">
+      <publishTime>03/04/2013 10:06:40</publishTime>
+    </File>
+    <File Include="images/staff/DPSD_Staff.zip">
+      <publishTime>03/04/2013 10:07:44</publishTime>
+    </File>
+    <File Include="images/staff/Group-Office-Photo.gif">
+      <publishTime>07/08/2014 16:23:28</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplast3-1.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplast3-2.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplast3-3.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplast3-4.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplast3-5.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplast3-6.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #2 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #2 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #2.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #4 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #4 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #4 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #4 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #4 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #4.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #5 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #5 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #5 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #5 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #5 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #5.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #6 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #6 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #6 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #6 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #6 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #6.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #7 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #7 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #7 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #7 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #7 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #7.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #8 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #8 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #8 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #8 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #8 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #8.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #9 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #9 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #9 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #9 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #9 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty #9.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty1_1.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty1_2.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty1_3.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty1_4.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty1_5.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Abdominoplasty/Abdominoplasty1_6.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #1 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #1 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #1 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #1 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #1 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #1.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #10 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #10 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #10 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #10 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #10 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #10.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #2 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #2 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #2.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #3 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:46</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #3 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #3 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #3 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #3 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #3.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #4 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #4 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #4 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #4 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #4 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #4.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #5 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #5 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #5 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #5 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #5 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #5.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #6 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #6 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #6 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #6 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #6 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #6.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #8 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #8 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #8 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #8 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #8 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #8.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #9 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #9 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #9 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #9 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #9 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Bleph #9.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Burton, Carol  %2820101216141958567%29 20101216142227427.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Burton, Carol  %2820101216141958567%29 20101216142230521.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Burton, Carol  %2820101216141958567%29 20101216142231958.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Burton, Carol  %2820101216141958567%29 20110324142725678.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Burton, Carol  %2820101216141958567%29 20110324142726037.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Blepharoplasty/Burton, Carol  %2820101216141958567%29 20110324142726396.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Brachioplasty/Brachioplasty #1 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Brachioplasty/Brachioplasty #1 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Brachioplasty/Brachioplasty #1 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Brachioplasty/Brachioplasty #1.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto #3 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto #3 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto #3 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto #3 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto #3 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto #3.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto 6 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto 6 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto 6 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto 6 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Aug-Masto 6.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #11 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #11 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #11 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #11 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #11 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #11.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #12 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #12 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #12 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #12 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #12 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #12.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #13 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #13 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #13 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #13 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #13 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto #13.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 10 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 10 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 10 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 10 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 10 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 10.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 7 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 7 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 7 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 7 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 7 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 7.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 8 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 8 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 8 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 8 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 8 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 8.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 9 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 9 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 9 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 9 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 9 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Breast Aug-Masto 9.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Smith, Denise D %2820090618074333911%29 20090618074439849.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Smith, Denise D %2820090618074333911%29 20090618074441286.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Smith, Denise D %2820090618074333911%29 20090618074442708.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Smith, Denise D %2820090618074333911%29 20090903082628640.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Smith, Denise D %2820090618074333911%29 20090903082630015.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug-Mastopexy/Smith, Denise D %2820090618074333911%29 20090903082631375.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #10 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #10 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #10 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #10 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #10 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #10.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #11 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #11 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #11 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #11 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #11 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #11.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #6 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #6 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #6 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #6 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #6 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #6.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #8 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #8 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #8 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #8 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #8 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #8.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #9 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #9 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #9 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #9 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #9 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Aug/Breast Aug #9.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #1 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #1 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #1 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #1 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #1 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #1.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #2 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #2 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reconstruction/Breast Reconstruction #2.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #1 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #1 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #1 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #1 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #1 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #1.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #2 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #2 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #2.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #3 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #3 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #3 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #3 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #3 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #3.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #4 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #4 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #4 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #4 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #4 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #4.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #5 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #5 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #5 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #5 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #5 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Breast Reduction #5.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Scruggs, Christy L %2820080123072843984%29 20080123073107656.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Scruggs, Christy L %2820080123072843984%29 20080123073109046.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Scruggs, Christy L %2820080123072843984%29 20080123073112062.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Scruggs, Christy L %2820080123072843984%29 20090611083302625.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Scruggs, Christy L %2820080123072843984%29 20090611083304063.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Breast Reduction/Scruggs, Christy L %2820080123072843984%29 20090611083307078.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #1 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #1 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #1 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #1 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #1 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #1.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #2 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #2 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #2.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #3 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #3 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #3 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #3 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #3 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #3.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #5 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #5 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #5 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #5 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #5 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #5.jpg">
+      <publishTime>03/07/2013 11:55:48</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #7 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #7 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #7 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #7 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #7 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Facelift/Facelift #7.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #1 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #1 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #1 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #1.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Liposuction/Liposuction #2.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #1 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #1 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #1 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #1 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #1 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #1.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #2 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #2 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #2.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #3 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #3 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #3 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #3 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #3 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #3.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #5 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #5 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #5 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #5 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #5 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy #5.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 2 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 2 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 2 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 2 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 2 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 2.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 3 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 3 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 3 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 3 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 3 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 3.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 4 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 4 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 4 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 4 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 4 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 4.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 6 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 6 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 6 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 6 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 6 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 6.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 7.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 8 %281%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 8 %282%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 8 %283%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 8 %284%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 8 %285%29.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Mastopexy/Mastopexy 8.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030723112806553.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030723112806584.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030723112806604.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030723112806634.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030825165355795.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030825165355885.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030825165355965.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gibson, Kaila L %2820030723112418476%29 20030825165356055.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040621105918833.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040621105918853.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040621105918883.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040621105918913.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040806141413022.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040806141413102.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040806141413162.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Gutierrez, Gabrielle L %2820040621105723117%29 20040806141413242.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050606144347128.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050606144347168.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050606144347208.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050606144347238.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050815170236739.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050815170238411.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050815170240013.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Nicholson, NaShea  %2820050606144218601%29 20050815170241616.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090302080846203.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090302080848093.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090302080849406.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090302080850703.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090420115638343.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090420115639281.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090420115640234.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/Otoplasty/Waldrop, Christine L %2820090302080520609%29 20090420115641203.jpg">
+      <publishTime>03/07/2013 11:55:50</publishTime>
+    </File>
+    <File Include="images/SubArticles/SubArticleImages.zip">
+      <publishTime>08/08/2013 17:39:18</publishTime>
+    </File>
+    <File Include="images/thumbImages/1492.jpg.jpg">
+      <publishTime>05/20/2013 11:43:14</publishTime>
+    </File>
+    <File Include="images/thumbImages/2017.jpg.jpg">
+      <publishTime>05/20/2013 11:43:34</publishTime>
+    </File>
+    <File Include="images/thumbImages/2216.jpg.jpg">
+      <publishTime>05/20/2013 11:16:54</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_1_ifrBackgroundImage.jpg">
+      <publishTime>07/29/2013 14:49:20</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_1_ifrBodyImage.jpg">
+      <publishTime>12/06/2013 17:45:02</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_2_ifrBackgroundImage.jpg">
+      <publishTime>09/27/2013 14:16:28</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_2_ifrBodyImage.jpg">
+      <publishTime>07/01/2013 14:42:34</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_3_ifrBackgroundImage.jpg">
+      <publishTime>09/03/2013 16:14:46</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_3_ifrBodyImage.jpg">
+      <publishTime>09/03/2013 16:15:48</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_3_ifrRightSideBarImage.jpg">
+      <publishTime>09/03/2013 16:14:46</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_4_ifrBackgroundImage.jpg">
+      <publishTime>04/21/2014 10:17:39</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_5_ifrBackgroundImage.jpg">
+      <publishTime>05/10/2013 15:29:48</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_6_ifrBackgroundImage.jpg">
+      <publishTime>05/10/2013 15:30:20</publishTime>
+    </File>
+    <File Include="images/thumbImages/module_6_ifrBodyImage.jpg">
+      <publishTime>04/21/2014 10:33:16</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_2.jpg">
+      <publishTime>09/03/2013 17:04:00</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_29.jpg">
+      <publishTime>09/03/2013 16:46:20</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_31.jpg">
+      <publishTime>09/03/2013 16:53:46</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_54.jpg">
+      <publishTime>09/03/2013 16:07:10</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_58.jpg">
+      <publishTime>09/03/2013 16:07:34</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_71.jpg">
+      <publishTime>09/03/2013 15:35:08</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_77.jpg">
+      <publishTime>09/30/2013 18:05:23</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_78.jpg">
+      <publishTime>09/03/2013 16:57:36</publishTime>
+    </File>
+    <File Include="images/wysiwyg/module_1_82.jpg">
+      <publishTime>10/01/2013 14:43:21</publishTime>
+    </File>
+    <File Include="miraDry.aspx">
+      <publishTime>04/13/2016 15:01:00</publishTime>
+    </File>
+    <File Include="miraDryIntro.aspx">
+      <publishTime>04/01/2016 10:20:47</publishTime>
+    </File>
+    <File Include="miraDryVideos.aspx">
+      <publishTime>04/13/2016 15:02:03</publishTime>
+    </File>
+    <File Include="miraPRLinks.aspx">
+      <publishTime>04/01/2016 12:01:21</publishTime>
+    </File>
+    <File Include="miraSmooth.aspx">
+      <publishTime>04/13/2016 14:52:01</publishTime>
+    </File>
+    <File Include="mstLeftSideBar.Master">
+      <publishTime>08/13/2015 16:11:01</publishTime>
+    </File>
+    <File Include="mstSite.Master">
+      <publishTime>09/10/2015 15:14:11</publishTime>
+    </File>
+    <File Include="privacy/DPS NPP English_HHS booklet_hc provider version.pdf">
+      <publishTime>09/09/2015 10:51:20</publishTime>
+    </File>
+    <File Include="privacy/DPS NPP SPANISH -HHS booklet-hc provider version.pdf">
+      <publishTime>09/09/2015 10:51:35</publishTime>
+    </File>
+    <File Include="Products.aspx">
+      <publishTime>08/19/2015 20:59:31</publishTime>
+    </File>
+    <File Include="Spanish.aspx">
+      <publishTime>09/05/2015 11:44:12</publishTime>
+    </File>
+    <File Include="Staff.aspx">
+      <publishTime>08/21/2015 12:00:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/10/2015 11:11:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

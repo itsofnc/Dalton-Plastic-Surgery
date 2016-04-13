@@ -1,0 +1,41 @@
+﻿/* PatientEducation */
+#divSliderPE { height: 400px; overflow:hidden; }
+#divSliderPE .viewport { float: left; width: 444px; height: 400px; overflow: hidden; position: relative; }
+#divSliderPE .buttons { background: url("../images/buttons.png") no-repeat scroll 0 0 transparent;
+						display: block;
+						margin: 30px 10px 0 0;
+						background-position: 0 -38px;
+						text-indent: -999em;
+						float: left;
+						width: 39px;
+						height: 37px;
+						overflow: hidden;
+						position: relative; }
+#divSliderPE .next { background-position: 0 0; margin: 30px 0 0 10px;  }
+#divSliderPE .disable { visibility: hidden; }
+#divSliderPE .overview { list-style: none; padding: 0; margin: 0;  position: absolute; left: 0; top: 0; }
+#divSliderPE .overview li{ float: left; margin: 0 10px 0 0; padding: 10px; height: 335px; border: 1px solid #ac7c72; width: 190px; background-color: #fdf4df; box-shadow: 2px 2px 5px #aaaaaa; }
+
+#divSliderPE .pager { overflow:hidden; list-style: none; clear: both; margin: 0 0 0 45px; }
+#divSliderPE .pager li { float: left; }
+#divSliderPE .pagenum { background-color: #fff; text-decoration: none; text-align: center; padding: 5px; color: #555555; font-size: 14px; font-weight: bold; display: block; }
+#divSliderPE .active { color: #fff; background-color:  #555555; }
+                   
+#divSliderPEMenu 
+{
+	height: 250px; overflow:auto;
+}	
+#divSliderPEMenu .menulink:hover
+{
+	color:#ac7c72;
+}
+
+/* Tiny Carousel */
+#divSliderHome { height: 205px; overflow:hidden; }
+#divSliderHome .viewport { float: left; width: 690px; height: 205px; overflow: hidden; position: relative; }
+#divSliderHome .buttons { display: block; margin: 3px; float: left; }
+#divSliderHome .next { margin: 10px 0 0 10px;  }
+#divSliderHome .disable { visibility: hidden; }
+#divSliderHome .overview { list-style: none; position: absolute; padding: 0; margin: 0; left: 0; top: 0; }
+#divSliderHome ul.overview { list-style: none; }
+#divSliderHome .overview li{ float: left; margin: 0 3px 0 0; padding: 1px; height: 205px; width: 225px; list-style: none; }    

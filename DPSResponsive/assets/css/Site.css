@@ -1,0 +1,28 @@
+﻿body {
+
+}
+
+.welcome {
+    font-family: 'Alex Brush', cursive;
+    font-size: 4em;
+    color: #446e9b;
+    text-align: left;
+    display: inline;
+    line-height: 1.2em;
+}
+
+.welcome-xs {
+    font-family: 'Alex Brush', cursive;
+    font-size: 3em;
+    color: #446e9b;
+    text-align: left;
+    display: inline;
+    line-height: 1em;
+}
+
+img.shadow {
+    -moz-box-shadow:4px 4px 10px 0px #777777;
+    -webkit-box-shadow:4px 4px 10px 0px #777777;
+    box-shadow:4px 4px 10px 0px #777777;
+    margin-bottom: 10px;
+}

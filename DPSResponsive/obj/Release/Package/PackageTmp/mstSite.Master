@@ -1,0 +1,139 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="mstSite.master.vb" Inherits="DPSResponsive.mstSite" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Dalton Plastic Surgery and Medical Spa">
+    <meta name="author" content="Innovative Technology Solutions, Inc.">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Dalton Plastic Surgery</title>
+
+    <!-- Bootstrap core CSS (from bootswatch.com) -->
+    <link href="assets/bootstrap-3.3.5-dist/css/bootswatch/spacelab-bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/Site.css" rel="stylesheet" />
+    <link href="assets/css/stickyFooterNavbar.css" rel="stylesheet" />
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href='http://fonts.googleapis.com/css?family=Alex+Brush|Merienda+One' rel='stylesheet' type='text/css' />
+
+    <asp:ContentPlaceHolder ID="headContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container">
+        
+      <!-- The justified navigation menu is meant for single line per list item.
+           Multiple lines will require custom code not provided by Bootstrap. -->
+      <div class="masthead">
+        <h1 class="welcome hidden-xs hidden-sm">Dalton Plastic Surgery & Medical Spa</h1>
+        <h4 class="welcome-xs visible-xs visible-sm">Dalton Plastic Surgery & Medical Spa</h4>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="Default.aspx"><i class="glyphicon glyphicon-home"></i> </a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <asp:Literal ID="litNavigation" runat="server"></asp:Literal>
+                    <asp:Literal ID="litHeaderGreeting" runat="server"></asp:Literal>
+                </div>
+            </div>
+        </nav>
+      </div>
+       
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-sm-8">
+            <asp:ContentPlaceHolder ID="bodyContent" runat="server"></asp:ContentPlaceHolder>
+        </div> 
+        <div class="col-sm-3 col-sm-offset-1 hidden-xs">
+            <div class="sidebar-module sidebar-module-inset">
+                <asp:ContentPlaceHolder ID="sidebarContent" runat="server"/>
+            </div> 
+            <div class="sidebar-module sidebar-module-inset">
+                <p><a href="https://www.carecredit.com/apply/confirm.html?encm=VzYCOwNhVDFWag1pV2IOZlRmB2dQNVZgUzINOAZjADw" target="_blank"><img src="assets/images/300x250_1_blue_cosmetic.gif" class="shadow img-responsive" width="160" height="140" border="0" alt="Cosmetic Surgery Financing: CareCredit Payment Options / We Accept CareCredit" /> </a></p>
+                <p>Dalton Plastic Surgery<br />
+                    1501 Broadrick Drive<br />
+                    Dalton, Georgia, 30720</p> 
+                <p>Call Us: 706-226-3311</p>
+                <p>Dalton Plastic Surgery Center</p>
+                <p>State License # 155-205</p>
+                <p><a href="Spanish.aspx">Hablamos Español?</a></p>
+                <p><a href="https://daltonplasticsurgery.nextechweb.com/NexWebPortal507/PatientSummary.aspx" target="_blank">Patient Portal Access</a></p>
+            </div>
+            
+            <div class="sidebar-module sidebar-module-inset">
+                <p><a href="http://www.abplsurg.org/" target="_blank">
+                    <img src="images/PS_MOC_CM_H_FULL_RGB_POS_3.jpg" class="img-responsive"border="0" alt="American Board of Plastic Surgery"/></a></p>
+            </div> 
+            <div class="sidebar-module sidebar-module-inset">
+                <p><a href="http://www.plasticsurgery.org/" target="_blank">
+                    <img src="images/asps_Logo.jpg" class="img-responsive" border="0" alt="American Society of Plastic Surgeons - Member Surgeon"/></a></p>
+            </div>
+        </div><!-- /.sidebar -->
+
+      </div>
+
+    </div> <!-- /container -->
+
+    <!-- row to offset footer height, otherwise footer cuts off page contents (stickyfooter expected to be 100px max, ours is more) -->
+    <div class="row" style="height: 75px;">&nbsp;</div>
+    <!-- Site footer -->
+    <footer class="footer" >
+        <div class="container">  
+                <!-- xs/sm footer -->          
+                <div class="col-xs-12 visible-xs visible-sm">
+                    <p>Dalton Plastic Surgery Center | 1501 Broadrick Drive, Dalton, Georgia, 30720 <br />
+                        Call Us: 706-226-3311 | State License # 155-205 | <br />
+                        <span class="navbar-link">Links:</span>&nbsp;<a href="http://www.abplsurg.org/" target="_blank">ABPS</a> | 
+                        <a href="http://www.plasticsurgery.org/" target="_blank">ASPS</a>
+                </div> 
+                <!-- md/lg footer -->
+                <div class="col-md-3 hidden-xs hidden-sm">
+                    <p>Dalton Plastic Surgery Center<br />
+                       1501 Broadrick Drive<br />
+                       Dalton, Georgia, 30720</p> 
+                </div> 
+                <div class="col-md-2 hidden-xs hidden-sm">
+                    <p>Call Us: 706-226-3311</p>
+                    <p>State License # 155-205</p>
+                </div>
+                <div class="col-md-2 hidden-xs hidden-sm">
+                    
+                    <p><a href="Spanish.aspx">Hablamos Español?</a></p>
+                    <p><a href="https://daltonplasticsurgery.nextechweb.com/NexWebPortal507/PatientSummary.aspx" target="_blank">Patient Portal Access</a></p>
+                </div> 
+                <div class="col-md-3 hidden-xs hidden-sm">
+                    <p><a href="privacy/DPS%20NPP%20English_HHS%20booklet_hc%20provider%20version.pdf" target="_blank">Privacy Policy (English)</a></p>
+                    <p><a href="privacy/DPS%20NPP%20SPANISH%20-HHS%20booklet-hc%20provider%20version.pdf" target="_blank">Privacy Policy (Spanish)</a></p>
+                </div>
+                <div class="col-md-2 hidden-xs hidden-sm pull-right">
+                    <asp:Literal ID="litNavbarFooter" runat="server"></asp:Literal>
+                </div>            
+        </div>
+    </footer>
+
+
+    <!-- JavaScripts -->
+<%--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>--%>
+    <script src="assets/js/jquery-1.11.0.js"></script>
+    <script src="assets/bootstrap-3.3.5-dist/js/bootstrap.min.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- Javascripts will added at page level -->
+    <asp:ContentPlaceHolder ID="pageJavaScripts" runat="server"></asp:ContentPlaceHolder>
+</body>
+</html>
