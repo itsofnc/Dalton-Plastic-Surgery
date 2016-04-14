@@ -9,7 +9,7 @@
      <div class="col-md-12">
         <!-- 16:9 aspect ratio -->
         <div class="embed-responsive embed-responsive-16by9">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/1ySJHUI5PM8" frameborder="0" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Zkg1Hj9bzDo?start=0&end=535&version=3" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
     
