@@ -8,3 +8,12 @@ C:\Projects\DPSD\DPS Responsive\DPSResponsive\DPSResponsive\obj\Debug\DPSRespons
 C:\Projects\DPSD\DPS Responsive\DPSResponsive\DPSResponsive\obj\Debug\DPSResponsive.pdb
 C:\Projects\DPSD\DPS Responsive\DPSResponsive\DPSResponsive\obj\Debug\DPSResponsive.vbprojResolveAssemblyReference.cache
 C:\Projects\DPSD\DPS Responsive\DPSResponsive\DPSResponsive\bin\DPSResponsive.dll.config
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\bin\DPSResponsive.dll
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\bin\DPSResponsive.pdb
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\bin\DPSResponsive.xml
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\obj\Debug\DPSResponsive.vbprojResolveAssemblyReference.cache
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\obj\Debug\DPSResponsive.Resources.resources
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\obj\Debug\DPSResponsive.vbproj.GenerateResource.Cache
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\obj\Debug\DPSResponsive.dll
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\obj\Debug\DPSResponsive.xml
+C:\Projects\DaltonPlasticSurgery\DPSResponsive\obj\Debug\DPSResponsive.pdb

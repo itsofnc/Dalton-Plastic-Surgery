@@ -6,456 +6,420 @@ DPSResponsive
 </name>
 </assembly>
 <members>
-<member name="F:DPSResponsive.Contact._frmContact">
-<summary>
+<member name="F:DPSResponsive.Contact.frmContact">
+	<summary>
 frmContact control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.Contact._txtName">
-<summary>
+</member><member name="F:DPSResponsive.Contact.txtName">
+	<summary>
 txtName control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.Contact._txtEmail">
-<summary>
+</member><member name="F:DPSResponsive.Contact.txtEmail">
+	<summary>
 txtEmail control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.Contact._txtSubject">
-<summary>
+</member><member name="F:DPSResponsive.Contact.txtSubject">
+	<summary>
 txtSubject control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.Contact._txtMessage">
-<summary>
+</member><member name="F:DPSResponsive.Contact.txtMessage">
+	<summary>
 txtMessage control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.Contact._btnSubmit">
-<summary>
+</member><member name="F:DPSResponsive.Contact.btnSubmit">
+	<summary>
 btnSubmit control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.Contact._litScripts">
-<summary>
+</member><member name="F:DPSResponsive.Contact.litScripts">
+	<summary>
 litScripts control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive._Default._title_data">
-<summary>
-title_data control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive._Default._body_data">
-<summary>
-body_data control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.frmListings._frmGetList">
-<summary>
-frmGetList control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.frmListings._litHeader">
-<summary>
-litHeader control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.frmListings._lit2ColList">
-<summary>
-lit2ColList control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._frmMaster">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.frmMaster">
+	<summary>
 frmMaster control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litAdminEdit">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litAdminEdit">
+	<summary>
 litAdminEdit control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litBackGroundTop">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litBackGroundTop">
+	<summary>
 litBackGroundTop control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litTitleData">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litTitleData">
+	<summary>
 litTitleData control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litBodyText">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litBodyText">
+	<summary>
 litBodyText control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litBodyImage">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litBodyImage">
+	<summary>
 litBodyImage control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litSubArticleMenu">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litSubArticleMenu">
+	<summary>
 litSubArticleMenu control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litSubArticleGalleryTitle">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litSubArticleGalleryTitle">
+	<summary>
 litSubArticleGalleryTitle control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litSubArticleGallery">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litSubArticleGallery">
+	<summary>
 litSubArticleGallery control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litNoGalleryImages">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litNoGalleryImages">
+	<summary>
 litNoGalleryImages control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litBackGroundBottom">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litBackGroundBottom">
+	<summary>
 litBackGroundBottom control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litRightSideImage">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litRightSideImage">
+	<summary>
 litRightSideImage control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litSubMenu">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litSubMenu">
+	<summary>
 litSubMenu control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.frmModuleArticle._litScripts">
-<summary>
+</member><member name="F:DPSResponsive.frmModuleArticle.litScripts">
+	<summary>
 litScripts control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.getCaptchaImage._form1">
-<summary>
-form1 control.
+</member><member name="F:DPSResponsive.miraSmooth.title_data">
+	<summary>
+title_data control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.get_list._litHeader">
-<summary>
+</member><member name="F:DPSResponsive.miraSmooth.body_data">
+	<summary>
+body_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.frmListings.frmGetList">
+	<summary>
+frmGetList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.frmListings.litHeader">
+	<summary>
 litHeader control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.get_list._lit2ColList">
-<summary>
+</member><member name="F:DPSResponsive.frmListings.lit2ColList">
+	<summary>
 lit2ColList control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.miraDry._title_data">
-<summary>
+</member><member name="F:DPSResponsive.get_list.litHeader">
+	<summary>
+litHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.get_list.lit2ColList">
+	<summary>
+lit2ColList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive._Default.title_data">
+	<summary>
 title_data control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.miraDry._body_data">
-<summary>
+</member><member name="F:DPSResponsive._Default.body_data">
+	<summary>
 body_data control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.miraDryIntro._title_data">
-<summary>
-title_data control.
+</member><member name="F:DPSResponsive._Default.imgDancingStars">
+	<summary>
+imgDancingStars control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.miraDryIntro._body_data">
-<summary>
-body_data control.
+</member><member name="F:DPSResponsive._Default.imgVoteNow">
+	<summary>
+imgVoteNow control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.miraDryVideos._title_data">
-<summary>
-title_data control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.miraDryVideos._body_data">
-<summary>
-body_data control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.miraSmooth._title_data">
-<summary>
-title_data control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.miraSmooth._body_data">
-<summary>
-body_data control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstLeftSideBar._head">
-<summary>
-head control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstSite._headContent">
-<summary>
-headContent control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstSite._litNavigation">
-<summary>
-litNavigation control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstSite._litHeaderGreeting">
-<summary>
-litHeaderGreeting control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstSite._bodyContent">
-<summary>
-bodyContent control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstSite._sidebarContent">
-<summary>
-sidebarContent control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstSite._litNavbarFooter">
-<summary>
-litNavbarFooter control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:DPSResponsive.mstSite._pageJavaScripts">
-<summary>
-pageJavaScripts control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="T:DPSResponsive.My.MyWebExtension">
- <summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
- <remarks></remarks>
-</member>
-<member name="P:DPSResponsive.My.MyWebExtension.Computer">
- <summary>
+</member><member name="P:DPSResponsive.My.MyWebExtension.Computer">
+	<summary>
  Returns information about the host computer.
  </summary>
-</member>
-<member name="P:DPSResponsive.My.MyWebExtension.User">
- <summary>
+</member><member name="P:DPSResponsive.My.MyWebExtension.User">
+	<summary>
  Returns information for the current Web user.
  </summary>
-</member>
-<member name="P:DPSResponsive.My.MyWebExtension.Request">
- <summary>
+</member><member name="P:DPSResponsive.My.MyWebExtension.Request">
+	<summary>
  Returns Request object.
  </summary>
-</member>
-<member name="P:DPSResponsive.My.MyWebExtension.Response">
- <summary>
+</member><member name="P:DPSResponsive.My.MyWebExtension.Response">
+	<summary>
  Returns Response object.
  </summary>
-</member>
-<member name="P:DPSResponsive.My.MyWebExtension.Log">
- <summary>
+</member><member name="P:DPSResponsive.My.MyWebExtension.Log">
+	<summary>
  Returns the Asp log object.
  </summary>
-</member>
-<member name="F:DPSResponsive.Spanish._title_data">
-<summary>
+</member><member name="T:DPSResponsive.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:DPSResponsive.Spanish.title_data">
+	<summary>
 title_data control.
 </summary>
-<remarks>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member>
-<member name="F:DPSResponsive.Spanish._body_data">
-<summary>
+</member><member name="F:DPSResponsive.Spanish.body_data">
+	<summary>
 body_data control.
 </summary>
-<remarks>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstLeftSideBar.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstSite.headContent">
+	<summary>
+headContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstSite.litNavigation">
+	<summary>
+litNavigation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstSite.litHeaderGreeting">
+	<summary>
+litHeaderGreeting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstSite.bodyContent">
+	<summary>
+bodyContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstSite.sidebarContent">
+	<summary>
+sidebarContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstSite.litNavbarFooter">
+	<summary>
+litNavbarFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.mstSite.pageJavaScripts">
+	<summary>
+pageJavaScripts control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.miraDryIntro.title_data">
+	<summary>
+title_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.miraDryIntro.body_data">
+	<summary>
+body_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.miraDryVideos.title_data">
+	<summary>
+title_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.miraDryVideos.body_data">
+	<summary>
+body_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.getCaptchaImage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.miraDry.title_data">
+	<summary>
+title_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:DPSResponsive.miraDry.body_data">
+	<summary>
+body_data control.
+</summary>
+	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>

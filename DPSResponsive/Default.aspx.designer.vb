@@ -30,4 +30,22 @@ Partial Public Class _Default
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents body_data As Global.System.Web.UI.WebControls.Literal
+
+    '''<summary>
+    '''imgDancingStars control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents imgDancingStars As Global.System.Web.UI.WebControls.Image
+
+    '''<summary>
+    '''imgVoteNow control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents imgVoteNow As Global.System.Web.UI.WebControls.Image
 End Class

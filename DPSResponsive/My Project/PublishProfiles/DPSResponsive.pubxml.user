@@ -6,527 +6,527 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Projects\DPSD\DPS Responsive\Publish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Projects\DaltonPlasticSurgery\DPSResponsive\Publish</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="assets/bootstrap-3.3.5-dist/css/bootswatch/spacelab-bootstrap.min.css">
-      <publishTime>08/13/2015 17:29:47</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot">
-      <publishTime>08/13/2015 15:55:37</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg">
-      <publishTime>08/13/2015 15:55:37</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>08/13/2015 15:55:37</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff">
-      <publishTime>08/13/2015 15:55:37</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2">
-      <publishTime>08/13/2015 15:55:37</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/bootstrap-3.3.5-dist/js/bootstrap.min.js">
-      <publishTime>08/13/2015 15:55:37</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/css/carousel.css">
-      <publishTime>08/13/2015 20:14:50</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/css/Site.css">
-      <publishTime>09/04/2015 14:31:23</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/css/stickyFooterNavbar.css">
-      <publishTime>09/04/2015 14:26:08</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/demo/.DS_Store">
-      <publishTime>09/08/2015 22:31:29</publishTime>
+      <publishTime>09/08/2015 22:31:30</publishTime>
     </File>
     <File Include="assets/formValidation/addons/demo/target.php">
-      <publishTime>09/08/2015 22:31:29</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/demo/v2/reCaptcha.declarative.html">
-      <publishTime>09/08/2015 22:31:29</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/demo/v2/reCaptcha.html">
-      <publishTime>09/08/2015 22:31:29</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/demo/v2/recaptcha.php">
-      <publishTime>09/08/2015 22:31:29</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/demo/v2/recaptchalib.php">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/dist/.DS_Store">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/dist/reCaptcha2.min.js">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/src/.DS_Store">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/src/reCaptcha2.js">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/._demo">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/._dist">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/._src">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/demo/._.DS_Store">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/demo/._target.php">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/demo/._v2">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/dist/._.DS_Store">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/addons/__MACOSX/src/._.DS_Store">
-      <publishTime>09/08/2015 22:31:30</publishTime>
+      <publishTime>09/08/2015 22:31:32</publishTime>
     </File>
     <File Include="assets/formValidation/css/formValidation.css">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/css/formValidation.min.css">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/formValidation.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/formValidation.min.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/bootstrap.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/bootstrap.min.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/foundation.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/foundation.min.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/pure.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/pure.min.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/semantic.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/semantic.min.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/uikit.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/framework/uikit.min.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/ar_MA.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/be_FR.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/be_NL.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/bg_BG.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/ca_ES.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/cs_CZ.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/da_DK.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/de_DE.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/en_US.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/es_CL.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/es_ES.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/eu_ES.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/fa_IR.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/fi_FI.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/fr_FR.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/gr_EL.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/he_IL.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/hi_IN.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/hu_HU.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/id_ID.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/it_IT.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/ja_JP.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/nl_NL.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/no_NO.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/pl_PL.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/pt_BR.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/pt_PT.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/ro_RO.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/ru_RU.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/sk_SK.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/sq_AL.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/sr_RS.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/sv_SE.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/th_TH.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/tr_TR.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/ua_UA.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/vi_VN.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/zh_CN.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/formValidation/js/language/zh_TW.js">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/.gitignore">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:35</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/.jshintrc">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:35</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/blueimp-gallery.jquery.json">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/bower.json">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/css/blueimp-gallery-indicator.css">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/css/blueimp-gallery-video.css">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/css/blueimp-gallery.css">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/css/blueimp-gallery.min.css">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/css/demo.css">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/Gruntfile.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/img/error.png">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/img/error.svg">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/img/loading.gif">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/img/play-pause.png">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/img/play-pause.svg">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/img/video-play.png">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/img/video-play.svg">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/index.html">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-fullscreen.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-indicator.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-video.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-vimeo.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-gallery-youtube.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-gallery.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-gallery.min.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/blueimp-helper.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/demo.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/jquery.blueimp-gallery.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/js/jquery.blueimp-gallery.min.js">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/package.json">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/Gallery-2.16.0/README.md">
-      <publishTime>08/19/2015 19:38:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/images/300x250_1_blue_cosmetic.gif">
-      <publishTime>08/13/2015 17:07:31</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/images/footer.png">
-      <publishTime>08/13/2015 19:23:08</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/js/BuildFormData.js">
-      <publishTime>08/13/2015 19:46:32</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/js/ie10-viewport-bug-workaround.js">
-      <publishTime>08/13/2015 15:50:37</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/js/jquery-1.11.0.js">
-      <publishTime>08/13/2015 19:27:49</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/tinycarousal/images/Thumbs.db">
-      <publishTime>08/13/2015 19:41:40</publishTime>
+      <publishTime>08/13/2015 19:41:42</publishTime>
     </File>
     <File Include="assets/tinycarousal/jquery.tinycarousel.js">
-      <publishTime>08/13/2015 19:40:25</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/tinycarousal/jquery.tinycarousel.min.js">
-      <publishTime>08/13/2015 19:40:25</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="assets/tinycarousal/tinycarousel.css">
-      <publishTime>08/13/2015 19:40:26</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="bin/DPSResponsive.dll">
-      <publishTime>04/13/2016 15:03:03</publishTime>
+      <publishTime>03/09/2017 14:42:10</publishTime>
     </File>
     <File Include="bin/DPSResponsive.xml">
-      <publishTime>04/13/2016 15:03:03</publishTime>
+      <publishTime>03/09/2017 14:42:10</publishTime>
     </File>
     <File Include="Brochures/DaltonMedicalSpaBrochure.pdf">
-      <publishTime>02/07/2013 15:08:22</publishTime>
+      <publishTime>02/14/2017 15:13:35</publishTime>
     </File>
     <File Include="Contact.aspx">
-      <publishTime>09/09/2015 14:08:12</publishTime>
+      <publishTime>02/14/2017 15:13:35</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>09/05/2015 11:43:00</publishTime>
+      <publishTime>02/28/2017 10:44:46</publishTime>
     </File>
     <File Include="fonts/font-awesome/css/font-awesome.css">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/css/font-awesome.min.css">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/fonts/fontawesome-webfont.eot">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/fonts/fontawesome-webfont.svg">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/fonts/fontawesome-webfont.ttf">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/fonts/fontawesome-webfont.woff">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/fonts/fontawesome-webfont.woff2">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/fonts/FontAwesome.otf">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/animated.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/bordered-pulled.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/core.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/fixed-width.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/font-awesome.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/icons.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/larger.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/list.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/mixins.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/path.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/rotated-flipped.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/spinning.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/stacked.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/variables.css">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/variables.less">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/less/variables.min.css">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/font-awesome.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_animated.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_bordered-pulled.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_core.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_fixed-width.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_icons.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_larger.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_list.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_mixins.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_path.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_rotated-flipped.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_spinning.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_stacked.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/scss/_variables.scss">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/font-awesome/ThisIsVersion4.3.0.txt">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>04/23/2015 15:23:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="frmListings.aspx">
-      <publishTime>08/24/2015 12:20:47</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="frmModuleArticle.aspx">
-      <publishTime>09/05/2015 15:31:48</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="getCaptchaImage.aspx">
-      <publishTime>09/08/2015 10:44:08</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="get_list.aspx">
-      <publishTime>08/21/2015 11:59:50</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/10_reasons.jpg">
       <publishTime>08/22/2013 17:31:42</publishTime>
@@ -535,7 +535,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/14/2013 11:51:46</publishTime>
     </File>
     <File Include="images/300x250_1_blue_cosmetic.gif">
-      <publishTime>04/15/2013 11:13:26</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/728x90_2_blue_cosmetic.gif">
       <publishTime>02/14/2013 12:16:38</publishTime>
@@ -568,7 +568,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/07/2015 12:41:11</publishTime>
     </File>
     <File Include="images/asps_Logo.jpg">
-      <publishTime>08/21/2015 14:57:38</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/asps_surgeon_logo_nobg.png">
       <publishTime>08/21/2015 13:00:07</publishTime>
@@ -628,7 +628,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/04/2015 15:07:54</publishTime>
     </File>
     <File Include="images/facial-rejuvenation-sm.jpg">
-      <publishTime>09/04/2015 13:53:48</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/favicon.ico">
       <publishTime>08/13/2013 14:11:32</publishTime>
@@ -646,7 +646,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/03/2013 16:06:52</publishTime>
     </File>
     <File Include="images/happy-people.jpg">
-      <publishTime>04/15/2013 11:13:44</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/header.png">
       <publishTime>11/26/2012 12:54:44</publishTime>
@@ -670,10 +670,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/22/2013 17:44:58</publishTime>
     </File>
     <File Include="images/Insurance-Logos.jpg">
-      <publishTime>04/16/2013 18:37:06</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/medical-spa-3.jpg">
-      <publishTime>08/12/2013 13:30:04</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/medical-spa.jpg">
       <publishTime>04/16/2013 15:21:18</publishTime>
@@ -682,7 +682,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/29/2013 15:33:50</publishTime>
     </File>
     <File Include="images/MedicalSpaBrochure.png">
-      <publishTime>04/16/2013 15:38:32</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/medical_spa.jpg">
       <publishTime>11/12/2012 15:27:10</publishTime>
@@ -697,10 +697,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/27/2013 16:42:28</publishTime>
     </File>
     <File Include="images/no_image.jpg">
-      <publishTime>04/15/2013 11:13:46</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/photo-gallery.jpg">
-      <publishTime>05/03/2013 15:07:34</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/plastic-surgery.jpg">
       <publishTime>03/29/2013 15:08:56</publishTime>
@@ -718,37 +718,37 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/27/2013 16:03:38</publishTime>
     </File>
     <File Include="images/products/bareMinerals_sm.png">
-      <publishTime>08/12/2013 09:57:12</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/products/clarisonic.jpg">
       <publishTime>08/09/2013 14:04:12</publishTime>
     </File>
     <File Include="images/products/clarisonic_sm.png">
-      <publishTime>08/09/2013 14:24:08</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/products/isClinical.jpg">
       <publishTime>08/09/2013 14:46:34</publishTime>
     </File>
     <File Include="images/products/isClinical_sm.png">
-      <publishTime>08/09/2013 14:47:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/products/latisse.jpg">
       <publishTime>08/09/2013 14:11:14</publishTime>
     </File>
     <File Include="images/products/latisse_sm.png">
-      <publishTime>08/09/2013 14:24:50</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/products/obagi.jpg">
       <publishTime>08/09/2013 14:41:20</publishTime>
     </File>
     <File Include="images/products/obagi_sm.png">
-      <publishTime>08/09/2013 14:41:52</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/products/pca.jpg">
       <publishTime>08/09/2013 14:15:42</publishTime>
     </File>
     <File Include="images/products/pca_sm.png">
-      <publishTime>08/09/2013 14:25:28</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/products/Revision-skin.jpeg">
       <publishTime>08/09/2013 14:17:34</publishTime>
@@ -757,16 +757,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/09/2013 14:37:48</publishTime>
     </File>
     <File Include="images/products/revision_sm.png">
-      <publishTime>08/09/2013 14:38:34</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/products/skinCeuticals2.jpg">
       <publishTime>08/09/2013 14:43:50</publishTime>
     </File>
     <File Include="images/products/skinceuticals_sm.png">
-      <publishTime>08/09/2013 14:45:54</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/PS_MOC_CM_H_FULL_RGB_POS_3.jpg">
-      <publishTime>09/07/2015 12:50:34</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/rightside_bg.png">
       <publishTime>02/14/2013 17:31:10</publishTime>
@@ -811,58 +811,58 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/22/2013 16:46:24</publishTime>
     </File>
     <File Include="images/spa-treatment.PNG">
-      <publishTime>09/03/2015 05:51:24</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/002.jpg">
-      <publishTime>02/28/2013 12:34:44</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/003.jpg">
-      <publishTime>02/28/2013 12:34:22</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/004.jpg">
-      <publishTime>02/28/2013 12:34:06</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/005.jpg">
-      <publishTime>02/28/2013 12:33:50</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/006.jpg">
-      <publishTime>02/28/2013 12:33:32</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/007.jpg">
-      <publishTime>02/28/2013 12:33:14</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/010.jpg">
-      <publishTime>02/28/2013 12:35:30</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/010.png">
-      <publishTime>02/27/2013 17:13:16</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/011.jpg">
-      <publishTime>02/28/2013 12:32:56</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/012.jpg">
-      <publishTime>02/28/2013 12:32:32</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/013.jpg">
-      <publishTime>02/28/2013 12:32:12</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/015.jpg">
-      <publishTime>02/28/2013 12:31:48</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/018.jpg">
-      <publishTime>02/28/2013 12:31:00</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/019.jpg">
-      <publishTime>02/28/2013 12:36:42</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/040.jpg">
-      <publishTime>03/06/2013 11:13:08</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/041.jpg">
-      <publishTime>03/06/2013 11:14:30</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/042.jpg">
-      <publishTime>03/06/2013 11:15:14</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/staff/DPSD_script_Staff.sql">
       <publishTime>03/04/2013 10:06:40</publishTime>
@@ -871,7 +871,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/04/2013 10:07:44</publishTime>
     </File>
     <File Include="images/staff/Group-Office-Photo.gif">
-      <publishTime>07/08/2014 16:23:28</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="images/SubArticles/Abdominoplasty/Abdominoplast3-1.jpg">
       <publishTime>03/07/2013 11:55:46</publishTime>
@@ -2086,43 +2086,43 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/01/2013 14:43:21</publishTime>
     </File>
     <File Include="miraDry.aspx">
-      <publishTime>04/13/2016 15:01:00</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="miraDryIntro.aspx">
-      <publishTime>04/01/2016 10:20:47</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="miraDryVideos.aspx">
-      <publishTime>04/13/2016 15:02:03</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="miraPRLinks.aspx">
-      <publishTime>04/01/2016 12:01:21</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="miraSmooth.aspx">
-      <publishTime>04/13/2016 14:52:01</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="mstLeftSideBar.Master">
-      <publishTime>08/13/2015 16:11:01</publishTime>
+      <publishTime>02/14/2017 15:13:36</publishTime>
     </File>
     <File Include="mstSite.Master">
-      <publishTime>09/10/2015 15:14:11</publishTime>
+      <publishTime>02/27/2017 16:10:48</publishTime>
     </File>
     <File Include="privacy/DPS NPP English_HHS booklet_hc provider version.pdf">
-      <publishTime>09/09/2015 10:51:20</publishTime>
+      <publishTime>02/14/2017 15:13:37</publishTime>
     </File>
     <File Include="privacy/DPS NPP SPANISH -HHS booklet-hc provider version.pdf">
-      <publishTime>09/09/2015 10:51:35</publishTime>
+      <publishTime>02/14/2017 15:13:37</publishTime>
     </File>
     <File Include="Products.aspx">
-      <publishTime>08/19/2015 20:59:31</publishTime>
+      <publishTime>02/14/2017 15:13:35</publishTime>
     </File>
     <File Include="Spanish.aspx">
-      <publishTime>09/05/2015 11:44:12</publishTime>
+      <publishTime>02/14/2017 15:13:35</publishTime>
     </File>
     <File Include="Staff.aspx">
-      <publishTime>08/21/2015 12:00:49</publishTime>
+      <publishTime>02/14/2017 15:13:35</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>09/10/2015 11:11:30</publishTime>
+      <publishTime>03/09/2017 14:42:11</publishTime>
     </File>
   </ItemGroup>
 </Project>

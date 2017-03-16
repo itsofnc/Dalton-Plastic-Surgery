@@ -49,11 +49,14 @@ Module ModAppCustoms
                 "</li>" &
                 "<li id=""#Products"" ><a href=""frmListings.aspx?lst=products"">Products</a></li>" &
                 "<li id=""#FAQ""><a href=""frmModuleArticle.aspx?id=7"">FAQ</a></li>" &
-                "<li id=""#ContactUs""><a href=""Contact.aspx?id=8"">Contact Us</a></li></ul>" &
                 "<ul class=""nav navbar-nav navbar-right"">" &
                 "<li id=""#PatientPortal""><a href=""https://daltonplasticsurgery.nextechweb.com/NexWebPortal507/PatientSummary.aspx"" " &
                         " target=""_blank"">Patient Portal Access</a></li>" &
                 "<li id=""#Spanish""><a href=""Spanish.aspx"">Hablamos Español?</a></li>"
+
+            ' 3/9/17 cpb removed the contact us page per Robin
+            '"<li id=""#ContactUs""><a href=""Contact.aspx?id=8"">Contact Us</a></li></ul>" &
+
             arrNavigation(0) &= "</ul>"
         End If
 
